@@ -1,4 +1,4 @@
-module github.com/bsgworld/go-sdk/v2
+module github.com/bsgworld/go-sdk
 
 go 1.18
 
